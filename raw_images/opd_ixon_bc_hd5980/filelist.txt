@@ -1,0 +1,15 @@
+https://github.com/sparc4-dev/astropop-data/blob/main/raw_images/opd_ixon_bc_hd5980/BIAS_2x2_0.fits?raw=true
+https://github.com/sparc4-dev/astropop-data/blob/main/raw_images/opd_ixon_bc_hd5980/BIAS_2x2_1.fits?raw=true
+https://github.com/sparc4-dev/astropop-data/blob/main/raw_images/opd_ixon_bc_hd5980/BIAS_2x2_2.fits?raw=true
+https://github.com/sparc4-dev/astropop-data/blob/main/raw_images/opd_ixon_bc_hd5980/BIAS_2x2_3.fits?raw=true
+https://github.com/sparc4-dev/astropop-data/blob/main/raw_images/opd_ixon_bc_hd5980/BIAS_2x2_4.fits?raw=true
+https://github.com/sparc4-dev/astropop-data/blob/main/raw_images/opd_ixon_bc_hd5980/FLAT_2x2_V_0.fits?raw=true
+https://github.com/sparc4-dev/astropop-data/blob/main/raw_images/opd_ixon_bc_hd5980/FLAT_2x2_V_1.fits?raw=true
+https://github.com/sparc4-dev/astropop-data/blob/main/raw_images/opd_ixon_bc_hd5980/FLAT_2x2_V_2.fits?raw=true
+https://github.com/sparc4-dev/astropop-data/blob/main/raw_images/opd_ixon_bc_hd5980/FLAT_2x2_V_3.fits?raw=true
+https://github.com/sparc4-dev/astropop-data/blob/main/raw_images/opd_ixon_bc_hd5980/FLAT_2x2_V_4.fits?raw=true
+https://github.com/sparc4-dev/astropop-data/blob/main/raw_images/opd_ixon_bc_hd5980/HD5980_V_0.fits?raw=true
+https://github.com/sparc4-dev/astropop-data/blob/main/raw_images/opd_ixon_bc_hd5980/HD5980_V_1.fits?raw=true
+https://github.com/sparc4-dev/astropop-data/blob/main/raw_images/opd_ixon_bc_hd5980/HD5980_V_2.fits?raw=true
+https://github.com/sparc4-dev/astropop-data/blob/main/raw_images/opd_ixon_bc_hd5980/HD5980_V_3.fits?raw=true
+https://github.com/sparc4-dev/astropop-data/blob/main/raw_images/opd_ixon_bc_hd5980/HD5980_V_4.fits?raw=true
